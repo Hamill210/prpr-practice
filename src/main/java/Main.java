@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int step2 = 20;
-        String step2222 = "abcacbcac";
+        int step2 = 333330;
         System.out.println(step2);
-        System.out.println(step2222);
         step1.onemethod();
+        Three step3 = new Three();
+        step3.step3();
     }
 }
